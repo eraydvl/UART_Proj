@@ -1,0 +1,16 @@
+-d C:\Gowin\Gowin_V1.9.11_x64\IDE\bin\project\UART_Proj\impl\gwsynthesis\UART_Proj.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst C:\Gowin\Gowin_V1.9.11_x64\IDE\bin\project\UART_Proj\src\UART_Proj.cst
+-cfg C:\Gowin\Gowin_V1.9.11_x64\IDE\bin\project\UART_Proj\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-place_option 0
+-route_option 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000
